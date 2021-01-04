@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "intake/{name}",
+      "connection": "ntlocalworkspa8152610848_STORAGE"
+    }
+  ]
+}

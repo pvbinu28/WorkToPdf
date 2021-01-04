@@ -1,0 +1,14 @@
+{
+  "name": "worktopdf",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "docx-pdf": "0.0.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
+}
